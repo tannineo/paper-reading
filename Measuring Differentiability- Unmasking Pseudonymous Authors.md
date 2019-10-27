@@ -117,4 +117,9 @@ for each fold {
 
 ## Effects of Topic Variability on Unmasking
 
-TODO:
+- not applicable on `same author diffrent topic` problems.
+
+## An Alternative Measure of Depth of Difference
+
+- the infomation gain curve:
+  - less key features but more inportance
