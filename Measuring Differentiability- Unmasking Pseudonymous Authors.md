@@ -74,7 +74,7 @@ Accuracy Results: Leave-one-book-out Tests
 
 combining the `unmasking` and `imporstor` involved training, the algorithm:
 
-```
+```text
 Given: anonymous book X, works of suspect author A, (optionally)impostors {A1,...,An}
 
 Step 1 - Impostors method (optional)

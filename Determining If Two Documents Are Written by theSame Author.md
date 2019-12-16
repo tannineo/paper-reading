@@ -4,7 +4,7 @@
 
 a almost unsupervised method:
 
-> The main idea is to use repeated feature subsampling methods to determine if one document of the pair allows us to select the other from among a background set of “impostors” in a sufficiently robust manner.
+> The main idea is to use repeated feature subsampling methods to determine if one document of the pair allows us to select the other from among a background set of 'impostors' in a sufficiently robust manner.
 
 ## Introduction
 
